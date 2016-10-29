@@ -11,4 +11,4 @@ Tag Set  | Content
 ------------- | -------------
 Terrorist Tags (S1)  | {Terrorist, Terrorism, etc.}
 Motivation Tags (S2)  | {Encourage, Inspire, etc.}
-OOC Tags (S3)  | {"<Name of People from Unrelated Context>"}
+OOC Tags (S3)  | {"Name of People from Unrelated Context"}
