@@ -2,8 +2,12 @@
 
 Currently, employed to detect the posts containing terrorist propaganda. SNP filter, reads the social media posts and filters the results based on three specifications:
   * Terrorism Tags
+      
   * Motivation Tags
+      
+      Words used by the terrorism to persuade an innocent citizen to join their malicious event. Such as "join hands", "support"  
   * Out-of-context (OOC) Tags
+  
   
 Sample content of each Tag set is given in the table below:
 
